@@ -1,0 +1,24 @@
+bg_B: 100
+bg_G: 100
+bg_R: 100
+my_turtlr:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+  bg_B: 100
+  bg_G: 100
+  bg_R: 100
+  param_b: 3.14
+param_a: 100
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_mzq_thinkpad_p15s_gen_2i__35167: http://mzq-ThinkPad-P15s-Gen-2i:35167/
+    host_mzq_thinkpad_p15s_gen_2i__39547: http://mzq-ThinkPad-P15s-Gen-2i:39547/
+    host_mzq_thinkpad_p15s_gen_2i__44829: http://mzq-ThinkPad-P15s-Gen-2i:44829/
+rosversion: '1.15.15
+
+  '
+run_id: c7e9e0ae-087b-11ee-94ce-91c3b4e91b37
